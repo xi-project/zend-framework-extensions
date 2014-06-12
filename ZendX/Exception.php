@@ -14,9 +14,9 @@
  *
  * @category  ZendX
  * @package   ZendX_Whois
- * @copyright  Copyright (c) 2005-2010 Zend Technologies USA Inc. (http://www.zend.com)
+ * @copyright  Copyright (c) 2005-2014 Zend Technologies USA Inc. (http://www.zend.com)
  * @license   http://framework.zend.com/license/new-bsd     New BSD License
- * @version   $Id: Exception.php 24401 2011-08-26 09:00:52Z padraic $
+ * @version   $Id$
  */
 
 /**
@@ -30,7 +30,7 @@ require_once 'Zend/Exception.php';
  * @category  ZendX
  * @package   ZendX
  * @uses      Zend_Exception
- * @copyright  Copyright (c) 2005-2010 Zend Technologies USA Inc. (http://www.zend.com)
+ * @copyright  Copyright (c) 2005-2014 Zend Technologies USA Inc. (http://www.zend.com)
  * @license   http://framework.zend.com/license/new-bsd     New BSD License
  */
 class ZendX_Exception extends Zend_Exception
